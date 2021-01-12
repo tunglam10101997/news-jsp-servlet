@@ -1,0 +1,3 @@
+com\hoclaptrinh\controller\admin\HomeController.class
+com\hoclaptrinh\controller\web\HomeController.class
+com\hoclaptrinh\model\UserModel.class
